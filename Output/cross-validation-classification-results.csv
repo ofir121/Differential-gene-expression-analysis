@@ -1,0 +1,4 @@
+precision,recall,f1,roc auc score,tn,fp,fn,tp,classifier
+1.0,1.0,1.0,1.0,16.6,0.0,0.0,18.8,Random Forest
+0.980952380952381,0.9894736842105264,0.9845945945945946,0.9822368421052632,16.2,0.4,0.2,18.6,AdaBoost
+1.0,1.0,1.0,1.0,16.6,0.0,0.0,18.8,Multilayer Perceptron
